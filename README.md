@@ -52,5 +52,9 @@
 
  ```
 
+## Note: Add google map key to local.properties 
 
+    ```google_maps_key=YOUR MAP KEY HERE``` 
+    
+    
 ![screenshot](/screenshot/screen.gif?raw=true)
